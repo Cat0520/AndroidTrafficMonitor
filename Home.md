@@ -1,8 +1,7 @@
 # Welcome to the AndriodTrafficMonitor wiki!
 ## App name：流量监控APP
 ## Team: 
-Team members：祝宇平、陈文俊、林青、黄绮琦 
-Pictures：  
+Team members：祝宇平、陈文俊、林青、黄绮琦  
   
 Emails：  
 1、祝宇平：@qq.com  
