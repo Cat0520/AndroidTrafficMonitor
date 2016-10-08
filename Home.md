@@ -21,7 +21,7 @@
 
 * [Sprint1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Sprint1)
 
-* [Idea proposal ](http://mobilesenegal.org/gsd2014/cs3892015ideaproposal.doc)
+* [sprint2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/sprint2)
 
 * [Wiki content](http://mobilesenegal.org/gsd2014/WikiTemplate1.docx)
 
@@ -36,4 +36,3 @@
 * [Presentation outline](http://mobilesenegal.org/gsd2014/PresentationOutline1.docx)
 
 * [Reflection on the software process] (http://mobilesenegal.org/gsd2014/SoftwareProcessReflection.docx)
-
