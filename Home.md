@@ -1,9 +1,8 @@
-# **Wiki of the project for SE Design 2016!**
+# **Wiki of the project for AndroidTrafficMonitor**
 
 ## Topics
 
 * Apps for public welfare project
-* Web application
 
 ## Calendar
 
@@ -14,17 +13,9 @@
 * 黄琦绮
 
 
-
-## Process
-
-* [XP Game](http://www.agilebelgium.be/xpgame/)
-* [Scrum Primer](http://www.scrumprimer.org/)
-
 ## Tools
 * Git and GitHub
-* waffle.io
-* Android
-* Slack
+* AndroidStudio
 
 ## Templates
 
