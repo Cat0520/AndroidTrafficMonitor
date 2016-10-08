@@ -6,7 +6,7 @@ Team members：祝宇平、陈文俊、林青、黄绮琦
 Emails：  
 1、祝宇平：@qq.com  
 2、陈文俊：@qq.com  
-3、林青: @qq.com  
+3、林青: 1340088708@qq.com  
 4、黄绮琦：1246714295@qq.com  
 Roles：  
 1、Product Owner: 祝宇平   
