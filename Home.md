@@ -19,7 +19,7 @@
 
 ## Templates
 
-* [Roles and process](http://mobilesenegal.org/gsd2014/teamscrumagile1.docx)
+* [Sprint1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Sprint1)
 
 * [Idea proposal ](http://mobilesenegal.org/gsd2014/cs3892015ideaproposal.doc)
 
