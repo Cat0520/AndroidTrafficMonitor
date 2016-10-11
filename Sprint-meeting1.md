@@ -1,0 +1,7 @@
+到研讨室进行会议，讨论了软件的需求和功能以及功能的实现，安装设计app的集成环境，讨论了各个功能的优先级
+Sprint meet1
+到研讨室进行会议，讨论了软件的需求和功能以及功能的实现，安装设计app的集成环境，讨论了各个功能的优先级
+祝宇平：初略设计了主界面，实现了界面跳转，还没有完全完成主界面的设计，主页面的图形界面设计还比较粗糙。由于对Android Studio这个软件还不是很熟悉，使用过程遇到了许多困难，比如剩余流量显示的圆形框还不知道如何用Android Studio写出来
+陈文俊：完成课后资料scrum primer的阅读，了解了敏捷开发。查找和阅读github的相关内容，在github上建立自己的账号。由于没有Android Studio的基础，正在学习Android Studio的使用 
+黄绮琦：完成课后资料scrum primer的阅读，了解了敏捷开发。查找和阅读github的相关内容，在github上建立自己的账号。由于没有Android Studio的基础，正在学习Android Studio的使用
+林青：完成课后资料scrum primer的阅读，了解了敏捷开发。查找和阅读github的相关内容，在github上建立自己的账号。由于没有Android Studio的基础，正在学习Android Studio的使用，由于Java的基础比较薄弱，学习起来比较困难
