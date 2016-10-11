@@ -33,12 +33,9 @@ Roles：
 [Scrummeeting2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Sprint-meeting2)  
 [Sprint2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SprintPlanning2)  
     
-[Scrummeeting3](http://pan.baidu.com/s/1sjsu5EP)  
-[Scrummeeting4](https://github.com/zxluan/youni/wiki/Scrummeting4)
+[Scrummeeting3](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Scrum-meeting3)  
 [Sprint3](http://pan.baidu.com/s/1mgvS5NM)  
-1、完善APP的各个功能  
-2、优化APP的各个细节  
-3、发布最终版APP  
+  
 ## Demo & Retrospectives
 Show……  
 ## Testing  
