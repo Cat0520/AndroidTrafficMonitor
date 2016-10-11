@@ -29,7 +29,7 @@ Roles：
 [Scrummeeting1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Sprint-meeting1)  
 [Sprint1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SprintPlanning1)  
 
-[Scrummeeting2](http://pan.baidu.com/s/1bn6usgv)  
+[Scrummeeting2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Sprint-meeting2)  
 [Sprint2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SprintPlanning2)  
     
 [Scrummeeting3](http://pan.baidu.com/s/1sjsu5EP)  
