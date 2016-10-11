@@ -26,7 +26,7 @@ Roles：
 ## Content
 ……
 ##Scrums
-[Scrummeeting1](http://pan.baidu.com/s/1mg6bShU)  
+[Scrummeeting1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Sprint-meeting1)  
 [Sprint1](http://pan.baidu.com/s/1kT5xXp9)  
 1、 完成Android环境的配置  
 2、开发平台的搭建  
