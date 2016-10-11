@@ -1,0 +1,6 @@
+Sprint meeting2
+由于两位女生的基础比较薄弱，主要负责wiki各文档内容的编辑，学习Android Studio的入门基础，看到时候参与到图形界面的设计中
+祝宇平：设计了参数设置和关于我们这两个功能，由于时间问题，没有完全完成这两个功能的设计，主界面的设计由于比较困难和耗时间，所以没有完成。遇到的困难主要还是不能对Android Studio的熟练使用和队友还不能参与到软件的开发中
+陈文俊：学习Android Studio的使用中
+黄绮琦：完成了SprintPlanning1，分解了目标并分配，继续在学习Android Studio中，由于对github不熟悉，不知道如何将文档上传到wiki中
+林青：设计了用例图和Product Backlog， 继续在学习Android Studio中，由于对github不熟悉，不知道如何将文档上传到wiki中
