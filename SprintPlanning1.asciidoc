@@ -1,10 +1,37 @@
-#SprintPlanning1：  
-确立需求确定总体功能模块和优先级选择并逐步开始进行开发，同时没有基础的队员抓紧时间学习并跟进小组项目计划。根据会议讨论结果，sprint1的项目目标是实现参数设置和关于我们这两个模块。   
+## Sprint Planning
 
-#目标分解
-1、AndroidStudio环境的配置    
-2、开发平台的搭建    
-3、github的学习使用    
-4、AndroidStudio的学习使用    
-5、各个模块界面的初步开发         
- 
+## List the US you will implement
+
+●	#US – 作为一个注册用户,我可以设置月结日、流量套餐、闲时流量、设置警示线、运营商等等
+
+## Labe2
+       完成关于我们和实现参数设置（流量、月结日、警示线等）功能
+
+## Decompose each story into tasks
+
+●	#US
+
+      ○	#T1 – 参数设置界面的设计以及制作
+
+      ○	#T2 - 关于我们界面的设计以及制作
+
+      ○	#T3 - 按钮的监听
+
+
+## Assign the tasks to dev
+
+●	#T1
+
+      ○	Developer: 祝宇平
+      ○	Time: 4 Days
+
+●	#T2
+
+      ○	Developer: 林青&黄绮琦
+
+      ○	Time: 4 Hours 
+
+●	#T3
+
+      ○	Developer: 祝宇平&陈文俊
+      ○	Time: 4 Hours  
