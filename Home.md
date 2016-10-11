@@ -30,12 +30,8 @@ Roles：
 [Sprint1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SprintPlanning1)  
 
 [Scrummeeting2](http://pan.baidu.com/s/1bn6usgv)  
-[Sprint2](http://pan.baidu.com/s/1mg2Eh1Q)  
-1、完善初步开发的界面，如剩余按钮的监听，功能的增加  
-2、美化开发出的界面  
-3、合并各自做好的界面  
-4、学习数据库的链接并尝试  
-5、学习网络连接并尝试     
+[Sprint2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SprintPlanning2)  
+    
 [Scrummeeting3](http://pan.baidu.com/s/1sjsu5EP)  
 [Scrummeeting4](https://github.com/zxluan/youni/wiki/Scrummeting4)
 [Sprint3](http://pan.baidu.com/s/1mgvS5NM)  
