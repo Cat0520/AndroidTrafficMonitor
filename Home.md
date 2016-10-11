@@ -27,14 +27,8 @@ Roles：
 ……
 ##Scrums
 [Scrummeeting1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Sprint-meeting1)  
-[Sprint1](http://pan.baidu.com/s/1kT5xXp9)  
-1、 完成Android环境的配置  
-2、开发平台的搭建  
-3、github的学习使用  
-4、genymotion虚拟机的学习使用  
-5、各个界面的初步开发，如：主界面（郑晓銮），发布界面（谭莹莹），搜索界面（黄育强），  
-                         我的信息界面（肖鸿瑜）  
-6、实现界面中部分按钮的监听   
+[Sprint1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SprintPlanning1)  
+
 [Scrummeeting2](http://pan.baidu.com/s/1bn6usgv)  
 [Sprint2](http://pan.baidu.com/s/1mg2Eh1Q)  
 1、完善初步开发的界面，如剩余按钮的监听，功能的增加  
