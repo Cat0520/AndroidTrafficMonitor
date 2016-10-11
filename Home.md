@@ -18,7 +18,7 @@ Roles：
 希望通过这个方式，能够资源的有效利用和个人资助途径的实现，实现人与人之间的直线互助。  
 	
 ## Idea Proposal
-[idea proposal](http://pan.baidu.com/s/1jGpQ4BG )
+[idea proposal](https://github.com/gdufeZLYL/gdufezlyl.github.com/wiki)
 ## Product Backlog
 [Product Backlog](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Product-Backlog)
 ## Architecture &Design
