@@ -5,7 +5,7 @@ Team members：祝宇平、陈文俊、林青、黄绮琦
   
 Emails：  
 1、祝宇平：@qq.com  
-2、陈文俊：@qq.com  
+2、陈文俊：290975428@qq.com  
 3、林青: 1340088708@qq.com  
 4、黄绮琦：1246714295@qq.com  
 Roles：  
@@ -19,7 +19,7 @@ Roles：
 你的流量会超出各种各样的五花八门的套餐的各种限制。  
 	
 ## Idea Proposal
-[idea proposal](https://github.com/gdufeZLYL/gdufezlyl.github.com/wiki)
+[idea proposal](https://github.com/fighting4/AndroidTrafficMonitor/wiki/requirement-validation)
 ## Product Backlog
 [Product Backlog](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Product-Backlog)
 ## Architecture &Design
