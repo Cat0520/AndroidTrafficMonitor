@@ -36,7 +36,7 @@ Roles：
 [Sprint2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SprintPlanning2)  
     
 [Scrummeeting3](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Scrum-meeting3)  
-[Sprint3](http://pan.baidu.com/s/1mgvS5NM)  
+[Sprint3](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SpringPlanning3)  
   
 ## Demo & Retrospectives
 Show……  
