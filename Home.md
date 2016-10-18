@@ -32,7 +32,7 @@ Roles：
 [Scrummeeting1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Scrum-meeting1)  
 [Sprint1](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SprintPlanning1)  
 
-[Scrummeeting2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Sprint-meeting2)  
+[Scrummeeting2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Scrum-meeting2)  
 [Sprint2](https://github.com/fighting4/AndroidTrafficMonitor/wiki/SprintPlanning2)  
     
 [Scrummeeting3](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Scrum-meeting3)  
