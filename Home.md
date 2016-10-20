@@ -18,8 +18,7 @@ Roles：
 因此，手机流量监控系统就应运而生。手机流量监控软件使你不必担心
 你的流量会超出各种各样的五花八门的套餐的各种限制。  
 	
-## Idea Proposal
-[idea proposal](https://github.com/fighting4/AndroidTrafficMonitor/wiki/requirement-validation)
+
 ## USER DIAGRAM
 ![](http://s9.sinaimg.cn/mw690/003yIIRYzy75LDa9TVC88&690.jpg)
 ## Product Backlog
@@ -52,6 +51,6 @@ Roles：
 ## Tools
 微信和Github  
 ##requirement validation
-[requirement validation]()
+[requirement validation](https://github.com/fighting4/AndroidTrafficMonitor/wiki/requirement-validation)
 ##software development reflection
 [software development reflection](https://github.com/zxluan/youni/wiki/software-development-reflection)
