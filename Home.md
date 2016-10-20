@@ -24,8 +24,6 @@ Roles：
 [UML]()
 ## Product Backlog
 [Product Backlog](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Product-Backlog)
-## Architecture &Design
-[架构](http://ww2.sinaimg.cn/bmiddle/88c34061gw1exhex9nss0j20s80l2jtj.jpg)
 ## Content
 ……
 ##Scrums
@@ -41,9 +39,9 @@ Roles：
 ## Demo & Retrospectives
 [demo.apk](https://github.com/fighting4/AndroidTrafficMonitor/blob/master/Demo.apk)Show……  
 ## Testing  
-[SprintTesting1](https://github.com/zxluan/youni/wiki/SprintTesting1)  
-[SprintTesting2](https://github.com/zxluan/youni/wiki/SprintTesting2)   
-[SprintTesting3](https://github.com/zxluan/youni/wiki/SprintTesting3)  
+[SprintTesting1]()  
+[SprintTesting2]()   
+[SprintTesting3]()  
 ## Process description
 通过微信和一周的会议上，说出自己做了什么，有什么问题，接下来干什么的流程,  
 不断地对app的代码进行叠加，不断地完善自己的代码和APP的功能。  
@@ -54,6 +52,6 @@ Roles：
 ## Tools
 微信和Github  
 ##requirement validation
-[requirement validation](https://github.com/zxluan/youni/wiki/requirement-validation)
+[requirement validation]()
 ##software development reflection
 [software development reflection](https://github.com/zxluan/youni/wiki/software-development-reflection)
