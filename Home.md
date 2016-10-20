@@ -21,7 +21,7 @@ Roles：
 ## Idea Proposal
 [idea proposal](https://github.com/fighting4/AndroidTrafficMonitor/wiki/requirement-validation)
 ## USER DIAGRAM
-[](http://s9.sinaimg.cn/mw690/003yIIRYzy75LDa9TVC88&690.jpg)
+![](http://s9.sinaimg.cn/mw690/003yIIRYzy75LDa9TVC88&690.jpg)
 ## Product Backlog
 [Product Backlog](https://github.com/fighting4/AndroidTrafficMonitor/wiki/Product-Backlog)
 
